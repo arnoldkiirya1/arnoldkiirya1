@@ -1,5 +1,5 @@
 # Hi there, I'm Kiirya Arnold 👋
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/kiirya-arnold-527b081a0/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/kiirya-arnold-527b081a0/))]
 
 Welcome to my GitHub profile! I'm an ethical Data Scientist and Software Engineer with a passion for creating intelligent systems and websites. I have proven expertise in developing solutions using a variety of technologies.
 
