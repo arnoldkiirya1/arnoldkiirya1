@@ -1,5 +1,7 @@
 # Hi there, I'm Kiirya Arnold 👋
-Welcome to my GitHub profile! I'm an ethical Data Scientist and Software Engineer with a passion for creating intelligent systems and websites. I have proven expertise in developing solutions using a variety of technologies.
+I am a dedicated and innovative software engineer with a background in both civil and software engineering, I bring a unique blend of technical 
+proficiency and problem-solving skills. My passion lies in leveraging cutting-edge technologies to address real-world challenges. With a 
+solid foundation in both civil and software engineering, I am adept at translating complex concepts into efficient and practical solutions..
 
 ## 🔧 Skills & Tools
 - Linux Server ![Linux Server](https://img.shields.io/badge/-Linux_Server-333?style=flat-square&logo=Linux&logoColor=white)
